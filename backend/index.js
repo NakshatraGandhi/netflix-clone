@@ -4,7 +4,7 @@ const app=express();
 
 app.use(cors());
 
-const username="nakshatra123";
+const username="user@example.com";
 const password=123456;
 
 app.get("/login",(req,res)=>{
