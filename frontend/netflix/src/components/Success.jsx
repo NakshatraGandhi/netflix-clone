@@ -18,7 +18,7 @@ function Success(){
                 {/*Extra Scroll Content*/}
                 <div className='mt-32 max-w-3xl'>
                     <h2 className='text-2xl font-bold mb-4 text-white'>Top Picks for You</h2>
-                    <p className='text-white mb-20'>Explore trending shows,movies and Netflix Originals curated just for you.Scroll down to discover more!</p>
+                    <p className='text-white  mb-20'>Explore trending shows,movies and Netflix Originals curated just for you.Scroll down to discover more!</p>
                 </div>
              </div>
 

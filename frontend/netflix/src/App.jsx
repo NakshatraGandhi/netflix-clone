@@ -41,7 +41,7 @@ function App() {
     }
 
     if(!valid) return;
-    axios.get(`https://login-netflix-1.onrender.com/login?username=${user}&password=${pass}`)
+    axios.get(`https://netflix-clone-j8uj.onrender.com//login?username=${user}&password=${pass}`)
     .then((data)=>{
       if(data.data === true){
         navigate("/success");
